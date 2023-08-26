@@ -7,13 +7,13 @@ Dieses Projekt ist eine Webpräsenz für das African Gold Mark ($AGold) Token. D
 1. Klone das Repository:
 
 ```bash
-git clone https://github.com/yourusername/yourrepository.git
+git clone https://github.com/Gracing47/AfricaGoldMark
 ```
 
 2. Öffne das Projektverzeichnis:
 
 ```bash
-cd yourrepository
+cd AfricaGoldMark
 ```
 
 ## Verwendung
